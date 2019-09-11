@@ -21,6 +21,13 @@ $ faas template pull https://github.com/openfaas-incubator/node10-express-templa
 $ faas new --lang node10-express
 ```
 
+**To Use**
+
+```console
+faas template pull https://github.com/solution9th/node10-express-template
+$ faas new --lang node10-express
+```
+
 ## Example usage
 
 ### Success and JSON body
